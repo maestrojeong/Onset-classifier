@@ -1,0 +1,1 @@
+{"exclude_label": [0, 4], "sound_type": {"0": "bass", "1": "clap", "2": "hihat", "3": "kick", "4": "percussion", "5": "snare"}}
